@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 * Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 * Estimate a bounding box for vehicles detected.
 
-Final project video could be found here: https://youtu.be/KgCUWd4fMIw
+[![Final project video with advanced lane detection and car detection](http://img.youtube.com/vi/KgCUWd4fMIw/0.jpg)](https://youtu.be/KgCUWd4fMIw)
 
 We first read the images of vehicles and non-vehicles into two arrays (cars and not_cars).
 
