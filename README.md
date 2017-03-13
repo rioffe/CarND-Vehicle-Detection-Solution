@@ -10,6 +10,7 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 Click the image below to view the final project video with advanced lane detection and car detection or download project videos from the repository.
+
 [![Final project video with advanced lane detection and car detection](http://img.youtube.com/vi/KgCUWd4fMIw/0.jpg)](https://youtu.be/KgCUWd4fMIw)
 
 We first read the images of vehicles and non-vehicles into two arrays (cars and not_cars).
